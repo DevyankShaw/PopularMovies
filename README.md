@@ -1,8 +1,8 @@
 # PopularMovies
-Shows popular movies using themoviedb.org REST API using Retrofit, Glide, MVVM and Pagination.
+Shows popular movies using themoviedb.org REST API using Retrofit, RxJava,Glide, MVVM and Pagination.
 
 ## Skills
-Android, Kotlin, Retrofit, MVVM, Glide and Pagination
+Android, Kotlin, Retrofit, RxJava,MVVM, Glide and Pagination
 
 ## Widgets
 Recycler View, Grid Layout
